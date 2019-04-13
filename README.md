@@ -5,9 +5,10 @@
 ### Validação do código:
 - Foi feito comparando os resultados com o software `ANAREDE`.
 
-### 
-É uma classe chamada `Flow` que recebe os parametros do sistema de transmissão.
-Dentro da classe Flow tem se abordagens de fluxo de carga:
+### A classe `Flow`:
+Recebe os parametros do sistema de transmissão.
+
+Dentro da classe Flow tem-se:
 
 - Cálculo da matriz admitância
 - Fluxo Linear
